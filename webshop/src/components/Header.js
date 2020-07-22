@@ -1,5 +1,6 @@
 import React from "react";
 
+//Mivel csak sima HTML elemet kell megjelenítenie így elég egy egyszerű arrow function függvény
 const Header = (props) => (
   <header className="top">
     <h1>
