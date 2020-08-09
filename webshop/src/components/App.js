@@ -5,7 +5,6 @@ import Inventory from "./Inventory";
 //importoltuk a fisheket
 import sampleFishes from "../sample-fishes";
 import Fish from "./Fish";
-import { object } from "prop-types";
 import base from "../base";
 
 class App extends React.Component {
